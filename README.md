@@ -1,5 +1,11 @@
-# Agrinho-2026
-<style>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Primeiro Website</title>
+
+    <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -9,14 +15,14 @@
         }
 
         header {
-            background-color: #088538;
+            background-color: #286c00;
             color: white;
             padding: 20px;
             text-align: center;
         }
 
         nav {
-            background-color: #107a19;
+            background-color: #056b0b;
             padding: 10px;
             text-align: center;
         }
@@ -47,7 +53,7 @@
         }
 
         h2 {
-            color: #539937;
+            color: #00990d;
         }
 
         ul {
@@ -73,17 +79,17 @@
         footer {
             text-align: center;
             padding: 15px;
-            background-color:  #222;
+            background-color: #222;
             color: white;
-            margin-top:20px;
+            margin-top: 20px;
         }
-
     </style>
+</head>
 
-        
+<body>
 
     <header>
-        <h1>Bem-vindo ao AGRO BR</h1>
+        <h1>Bem-vindo ao AGOR BR</h1>
         <p>Um site simples criado com HTML e CSS</p>
     </header>
 
@@ -93,13 +99,23 @@
         <a href="#">Serviços</a>
         <a href="#">Galeria</a>
         <a href="#">Contato</a>
-    </nav
-    section>
+    </nav>
+
+    <main>
+
+        <section>
             <h2>Sobre o Projeto</h2>
             <p>
                 O projeto Agrinho 2026 tem como objetivo mostrar a importância do equilíbrio entre a produção agrícola e a preservação do meio ambiente. Com o tema “Agro forte, futuro sustentável”, aprendemos que o agronegócio é muito importante para a sociedade, pois produz alimentos e gera empregos, mas também precisa cuidar da natureza. Através do site que estamos desenvolvendo nas aulas de Programação e IA, podemos compartilhar ideias, informações e conscientizar as pessoas sobre práticas mais sustentáveis. Esse projeto também ajuda no aprendizado de tecnologia, criatividade e trabalho em equipe.
             </p>
-<section>
+
+            <p>
+                O objetivo deste projeto é apresentar, de forma moderna e informativa, a importância do agronegócio sustentável para o futuro da sociedade e do meio ambiente. O site busca demonstrar como a tecnologia, a produção agrícola e a preservação da natureza podem trabalhar juntas, trazendo informações, conscientização e soluções para um futuro mais equilibrado. Além disso, o projeto simula o funcionamento de um verdadeiro site de agronegócio, com áreas de serviços, informações, contato e conteúdos educativos sobre sustentabilidade no campo.
+
+            </p>
+        </section>
+
+        <section>
             <h2>Serviços</h2>
 
             <ul>
@@ -118,10 +134,7 @@
 <li> Soluções ecológicas para fazendas</li>
                 <li>Educação e conscientização ambiental</li>
 
-
-
             </ul>
-        
         </section>
 
         <section>
@@ -131,15 +144,13 @@
                 <div class="imagem">Imagem 1</div>
                 <div class="imagem">Imagem 2</div>
                 <div class="imagem">Imagem 3</div>
-                <main>
-    
+            </div>
+        </section>
 
-
-
-         <section>
+        <section>
             <h2>Contato</h2>
 
-            <p>Email: nathan.bilieski.santos@escola.pr.gov.br</p>
+            <p>Email: exemplo@email.com</p>
             <p>Telefone: (00) 00000-0000</p>
 
             <form>
@@ -159,7 +170,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 - Desenvolvido pro NATHAN BILIESKI DOS SANTOS                                                                       
+        <p>&copy; 2026 - Desenvolvido por NATHAN BILIESKI DOS SANTOS</p>
     </footer>
 
 </body>
